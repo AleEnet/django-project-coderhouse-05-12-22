@@ -1,0 +1,12 @@
+body {
+    background: #090909;
+  }
+  
+  .bg-black {
+    background: #000;
+  }
+  
+  .col-9:hover {
+    border: 1px solid #eee;
+    cursor: pointer;
+  }
